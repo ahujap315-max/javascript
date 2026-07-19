@@ -2,7 +2,7 @@ let score = "33abc";//nan
 let score2 = null;//0
 let score3 = undefined;//nan
 let score4 = true;//1
-console.log(typeof score); // number
+console.log(typeof score); // string
 console.log(typeof(score));
 let valinnumber = Number(score);
 console.log(typeof valinnumber);
