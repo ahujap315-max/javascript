@@ -6,6 +6,8 @@ city = "jaipur";
 let state;
 //accountid = 2; -- not allowed
 email = "hc@hc";
+name2 = "paras";
+
 pass = "123";
 city = "morada";
 console.log(email); 
